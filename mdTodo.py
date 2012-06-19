@@ -5,9 +5,7 @@ class ItodoBase(sublime_plugin.TextCommand):
   def run(self, edit):
     filename = self.view.file_name()
     # list of allowed filetypes
-    # (added this because some people, like me, tend to use .txt files because they're more universal)
-    # (this means that i have to manually set syntax for such file, but it's no sweat ;)
-    allowed_filetypes = ('.todo', '.txt', '.md', '.markdown')
+    allowed_filetypes = ('.md', '.markdown', '.mdown')
     if filename is None or not filename.endswith(allowed_filetypes):
       return False  
     self.runCommand(edit)
