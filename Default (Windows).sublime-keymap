@@ -1,3 +1,3 @@
-[	// iTodo plugin
-	{ "keys": ["ctrl+shift+d"], "command": "complete" }
+[	
+	{ "keys": ["ctrl+shift+d"], "command": "toggle_complete" }
 ]

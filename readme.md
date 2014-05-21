@@ -1,7 +1,7 @@
-mdTodo for Sublime Text
+gfmTodo for Sublime Text
 ------------------
 
-mdTodo is a GTD tool for managing todo list in markdown files in Sublime Text editor.
+gfmTodo add a shortcut to mark your task done, in a Github Flavoured Markdown way.
 
 
 Installation
@@ -23,18 +23,17 @@ Samples
 
 Suppose we have the following todo file:
 
-	# Project A:
-	- call mum tomorrow at 8 am.
-	- send pull request
+# Project A:
+- [ ] call mum tomorrow at 8 am.
+- [ ] send pull request
 
 Highlight this item line and press "CTRL + SHIFT + d", it marks a tag "@done" and also appends timestamp.
 
-	# Project A:
-	+ call mum tomorrow at 8 am. @done (2012-01-08 18:12)
-	+ send pull request @done (2012-01-08 18:12)
+# Project A:
+- [X] call mum tomorrow at 8 am. @done (2014-05-22 01:01)
+- [X] send pull request @done (2014-05-22 01:00)
 
 Contribution
 ------------------
 
-Thanks Taskmate for TextMate (https://github.com/svenfuchs/taskmate).
-This is a fork of https://github.com/chagel/itodo
+This is just a fork of mdTodo (https://github.com/groenewege/mdTodo).
