@@ -7,9 +7,9 @@ gfmTodo add a shortcut to mark your task done, in a Github Flavoured Markdown wa
 Installation
 ------------------
 
-To install this plugin, you have two options:
+To install this plugin :
 
-* Clone source code to Sublime Text 2 app folder, eg. ~/Library/Application Support/Sublime Text 2/mdTodo.
+* Clone source code to Sublime Text 2 app folder, eg. ~/Library/Application Support/Sublime Text 2/gfmTodo.
 
 
 Usage 
