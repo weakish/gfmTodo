@@ -30,8 +30,8 @@ Suppose we have the following todo file:
 Highlight this item line and press "CTRL + SHIFT + d", it marks a tag "@done" and also appends timestamp.
 
     # Project A:
-    - [X] call mum tomorrow at 8 am. @done (2014-05-22 01:01)
-    - [X] send pull request @done (2014-05-22 01:00)
+    - [X] call mum tomorrow at 8 am. _@done (2014-05-22 11:31)_
+    - [X] send pull request _@done (2014-05-22 11:31)_
 
 Contribution
 ------------------
