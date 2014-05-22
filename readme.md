@@ -2,6 +2,7 @@ gfmTodo for Sublime Text
 ------------------
 
 gfmTodo add a shortcut to mark your task done, in a Github Flavoured Markdown way.
+
 more info about task-lists in GFM :
 https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
 
@@ -42,4 +43,4 @@ Those will produce checkbox :
 Contribution
 ------------------
 
-This is just a fork of mdTodo (https://github.com/groenewege/mdTodo).
+I started this project forking mdTodo (https://github.com/groenewege/mdTodo).
