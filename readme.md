@@ -2,7 +2,8 @@ gfmTodo for Sublime Text
 ------------------
 
 gfmTodo add a shortcut to mark your task done, in a Github Flavoured Markdown way.
-
+I wanted this syntax after reading this Article by Carl Sednaoui :
+http://carlsednaoui.com/post/70299468325/the-best-to-do-list-a-private-gist
 
 Installation
 ------------------
