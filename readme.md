@@ -34,6 +34,11 @@ Highlight this item line and press "CTRL + SHIFT + d", it marks a tag "@done" an
     - [X] call mum tomorrow at 8 am. _@done (2014-05-22 11:31)_
     - [X] send pull request _@done (2014-05-22 11:31)_
 
+Those will produce checkbox :
+
+- [ ] call mum tomorrow at 8 am.
+- [X] send pull request _@done (2014-05-22 11:31)_
+
 Contribution
 ------------------
 
