@@ -11,8 +11,9 @@ Installation
 
 To install this plugin :
 
-* Clone source code to Sublime Text 2 app folder, eg. ~/Library/Application Support/Sublime Text 2/gfmTodo.
 
+Clone source code to Sublime Text 2 app folder,
+e.g. `~/Library/Application Support/Sublime Text 2/gfmTodo`.
 
 Usage 
 ------------------
