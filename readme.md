@@ -11,11 +11,17 @@ Installation
 
 To install this plugin :
 
+### For Sublime 2
 
 Clone source code to Sublime Text 2 app folder,
 e.g. `~/Library/Application Support/Sublime Text 2/gfmTodo`.
 
-Usage 
+### For Sublime 3
+
+Clone source code to Sublime Text 3 `Packages` folder, e.g.
+`~/Library/Application Support/Sublime Text 3/Packages/gfmTodo`
+
+Usage
 ------------------
 
 CTRL + SHIFT + d : toggle task completed
